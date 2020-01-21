@@ -3,10 +3,16 @@ Change request 1-
 For updating adding item 
 
 
-change file to partial implementation of billing 
+change1 file -> to partial implementation of billing 
 
 
-Change the file to check push to remote 
+Change2 the -> file to check push to remote 
 hi
 
-change - made by teammate
+change -> made by teammate
+
+Change3 -> at local master 
+
+
+
+ File2 updated by local master for arrow  and number
