@@ -8,6 +8,10 @@ Change 1 placed for Feature - Login
 
 Change 1 placed for feature - logout
 
-Change to Bug1
 
 Change to from remote server by my teamamte
+
+Change to bug1
+
+Change to bug2
+
