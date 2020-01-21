@@ -9,3 +9,5 @@ Change 1 placed for feature - login
 Change 1 placed for feature - logout
 
 Change to bug1
+
+Change to bug2
